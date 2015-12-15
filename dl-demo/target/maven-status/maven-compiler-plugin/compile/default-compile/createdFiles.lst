@@ -1,0 +1,6 @@
+com\example\labs\mongo\MongoDBConnection.class
+com\example\labs\actions\HelloAction.class
+com\example\labs\mongo\MongoDBWebListener.class
+com\example\labs\actions\data\ProjectsAction.class
+com\example\labs\actions\Index.class
+com\example\labs\model\TurbineData.class
